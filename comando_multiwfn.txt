@@ -1,0 +1,16 @@
+2   <- Topological analysis
+2   <- Search CPs from nuclear positions
+3   <- Search CPs from midpoint of atomic pairs
+-4  <- Modify or export CPs (critical points)
+2   <- Delete some CPs
+5   <- Delete all (3,+1) CPs
+6   <- Delete all (3,+3) CPs
+0   <- Return
+0   <- Return
+8   <- Generating the paths connecting (3,-3) and (3,-1) CPs
+7   <- Show real space function values at specific CP or all CPs
+-1   <- Print results in CPprop.txt
+
+
+
+
